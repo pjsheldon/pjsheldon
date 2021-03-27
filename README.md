@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1>Hi There! Welcome to my GitHub Page.</h1>
+
+<p>This part if the page is still under construction please check back for updates and finishing touches!</p>
+
+<p>Thanks and have a wonderful day!</p>
+
+
+<!--### Hi there 👋-->
 
 <!--
 **pjsheldon/pjsheldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
