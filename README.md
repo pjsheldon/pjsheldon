@@ -5,7 +5,7 @@
 <p>Currently working on an PJSHeldon.com, DJPJSheldon.com, Untitled Web Game and a Meal Selection Application</p>
 <p>Right now I am currently working in swift and Java for application. </p>
 
-<p>Thanks and have a wonderful day!</p>
+<p>Thanks and have a wonderful day!</p> 
 
 
 <!--### Hi there 👋-->
