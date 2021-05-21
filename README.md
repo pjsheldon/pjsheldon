@@ -1,5 +1,5 @@
 <div class="parallax" style="background-color: #efefef; height: 100%;"></div>
-<h1>Hi There! Welcome to my GitHub Page.</h1>
+<h1 style="background-color: #efefef;">Hi There! Welcome to my GitHub Page.</h1>
 
 <p>This part if the page is still under construction please check back for updates and finishing touches!</p>
 
