@@ -1,7 +1,9 @@
-<div class="parallax" style="background-color: #efefef; height: 100%;">
-<h1 style="background-color: #efefef;">Hi There! Welcome to my GitHub Page.</h1></div>
 
-<p>This part if the page is still under construction please check back for updates and finishing touches!</p>
+<h1>Hi There! Welcome to my GitHub Page.</h1>
+<h2>I am PJ Sheldon</h2>
+
+<p>Currently working on an PJSHeldon.com, DJPJSheldon.com, Untitled Web Game and a Meal Selection Application</p>
+<p>Right now I am currently working in swift and Java for application. </p>
 
 <p>Thanks and have a wonderful day!</p>
 
